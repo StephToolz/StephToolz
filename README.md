@@ -1,7 +1,7 @@
-👋 Hey, I’m Stephan
-📍 Location: Czechia
-🎂 Age: 18 | 👤 Gender: He/him
-🎮 Hobbies: Programming, Gaming, Biking
+👋 Hey, I’m Stephan  .
+📍 Location: Czechia  .
+🎂 Age: 18 | 👤 Gender: He/him  .
+🎮 Hobbies: Programming, Gaming, Biking  .
 
 # 🚀 About Me
 My tech journey started in 2020 with Minecraft server administration. What began as basic plugin config quickly evolved into a drive for profit and data. I moved from server management to the illegal side of Discord, mastering A4A services and personal info selling.
