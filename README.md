@@ -13,4 +13,4 @@ I’ve migrated my arsenal from private archives to this Github as i felt like t
 **IP GeoLocator (C#):** .NET app parsing public APIs for precise city, country, and coordinate data.
 **Dark Puller:** Command-line sniffer automating T-Shark to capture target PII via network traffic.
 
-** If you find a bug or a mistake, contact me on discord ( my nick is uwned ) **
+*If you find a bug or a mistake, contact me on discord ( my nick is uwned )*
