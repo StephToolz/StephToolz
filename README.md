@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey, I’m Stephan
+📍 Location: Czechia
+🎂 Age: 18 | 👤 Gender: He/him
+🎮 Hobbies: Programming, Gaming, Biking
 
-<!--
-**StephToolz/StephToolz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 About Me
+My tech journey started in 2020 with Minecraft server administration. What began as basic plugin config quickly evolved into a drive for profit and data. I moved from server management to the illegal side of Discord, mastering A4A services and personal info selling.
 
-Here are some ideas to get you started:
+Today, I focus on building tools that people actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🛠️ Core Tools
+I’ve migrated my arsenal from private archives to this Github as i felt like this stuff should be acessible to anyone
+
+**SMB Brute Forcer:** Automates dictionary attacks, using error levels to verify success.
+**WinRAR Password Cracker:** Batch-automated 7z.exe for efficient password guessing.
+**IP GeoLocator (C#):** .NET app parsing public APIs for precise city, country, and coordinate data.
+**Dark Puller:** Command-line sniffer automating T-Shark to capture target PII via network traffic.
+
+📫 Contact
+_@ uwned on discord_
